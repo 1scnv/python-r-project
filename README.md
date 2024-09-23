@@ -114,9 +114,9 @@ A redes neurais necessitam de grandes quantidades de dados para inferir sobre os
 |`hidden_layer_sizes` |(10,)      | 
 |`activation`         |relu       | 
 |`solver`             |adam       |   
-|`batch_size`         |auto       |
+|`batch_size`         |512      |
 |`learning_rate_init` |0.001      |
-|`momentum`           |0.9        |
+|`momentum`           |0.5        |
 |`early_stopping`     |True       |
 |`max_iter`           |100        |
 |`warm_start`         |True       |
